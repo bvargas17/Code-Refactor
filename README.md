@@ -3,8 +3,7 @@
 
 ## Deployed Website
 - - - - 
-
-[link] https://bvargas17.github.io/Code-Refactor/
+<https://bvargas17.github.io/Code-Refactor/>
 
 ## Contribution
 - - - - 
@@ -24,4 +23,4 @@ I made changes to the following aspects of the website to make sure that they me
 
 ## Website Preview
 - - - - 
-![Image] (https://github.com/bvargas17/Code-Refactor/issues/1#issue-714202810)
+![alt text] (https://github.com/bvargas17/Code-Refactor/issues/1#issue-714202810)

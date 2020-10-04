@@ -23,4 +23,5 @@ I made changes to the following aspects of the website to make sure that they me
 
 ## Website Preview
 - - - - 
-![alt text] (https://github.com/bvargas17/Code-Refactor/issues/1#issue-714202810)
+![screencapture-bvargas17-github-io-Code-Refactor](https://user-images.githubusercontent.com/69996680/95004240-44b39400-05ae-11eb-8686-41387998aa73.png)
+
